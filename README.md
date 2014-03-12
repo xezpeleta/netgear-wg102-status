@@ -23,6 +23,6 @@ RRDTool Graph creation steps:
 
 ### Screenshots
 
-<img src="https://lh3.googleusercontent.com/G7nwh_7puIXhIhnDdI9G9VhIwVoQ4tdyELUxw-sJ5Y2SELpAaBUhnAkQK-SMgvvL1SBDmbI7gEQ">
+<img src="http://gdurl.com/JGSE">
 
-<img src="https://lh6.googleusercontent.com/kpGwct2fVrFk5JJQW-yipkZ3-r_y6bE5CDqqgVrYunPUMcykN7GhddPCS4pVDidjYhcui_wNmOE">
+<img src="http://gdurl.com/piVH">
